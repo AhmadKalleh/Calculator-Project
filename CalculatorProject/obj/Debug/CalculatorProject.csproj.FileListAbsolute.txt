@@ -1,0 +1,20 @@
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\ahmad\source\repos\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
